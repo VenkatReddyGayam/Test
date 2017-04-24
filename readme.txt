@@ -1,9 +1,2 @@
-<<<<<<< .mine
-first coomit
-
+first commit
 Updated 
-=======
-first coomit
-
-
->>>>>>> .theirs
